@@ -23,7 +23,9 @@
 	box-shadow: rgba(0, 0, 0, 0.09) 0 2px 0;
 }
 
-$red: #DB6161;
+$blue: #4da6ff;
+$green: #ff6633;
+$red: #ff6666;
 
 body {
 	background: rgb(235, 238, 243);
@@ -53,7 +55,7 @@ body {
 		font-weight: bold;
 		font-size: 25px;
 		a {
-			color: $red;
+			color: $blue;
 		}
 	}
 }
@@ -85,7 +87,7 @@ body {
 		font-weight: normal;
 		line-height: 1.5;
 		a {
-			color: $red;
+			color: $green;
 		}
 	}
 }
